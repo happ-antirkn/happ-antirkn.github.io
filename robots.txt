@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://happ-antirkn.github.io/sitemap.xml
